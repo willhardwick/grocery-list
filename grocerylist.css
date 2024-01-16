@@ -1,0 +1,45 @@
+h1 {
+    color: brown;
+    font-family: cursive;
+}
+
+h2 {
+text-transform: uppercase;
+text-align: left;
+background-color: beige;
+border: solid 1px;
+width: 100%;
+
+}
+
+ul {
+    display: inline-block;
+}
+
+ol {
+    display: inline-block;
+}
+
+img {
+    margin-top: 50px;
+    margin-left: 75px;
+    height: 200px;
+    padding: 0;
+    align-items: baseline;
+}
+
+.dry {
+  width: 150px;
+  height: 150px;
+  margin-left: 32.5px;
+  background-color: lightblue;
+  padding: 20px;
+}
+
+.canned {
+  width: 150px;
+  height: 150px;
+  margin-left: 32.5px;
+  background-color: lightblue;
+  padding: 20px;
+}
